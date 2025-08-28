@@ -25,15 +25,15 @@ return (
             <h3 class='about-whychoose-h3'>Why Choose Us</h3>
             <p class='about-whychoose-para'>Learn with us and experience the unique advantages that set CodeTech Learn apart in the educational landscape.</p>
             <div class="row ms-lg-5">
-                <div class="col-12 col-sm-12 col-md-12 col-lg-4 mt-5 ms-lg-5 me-5 about-choose">
+                <div class="col-12 col-sm-12 col-md-12 col-lg-4 mt-5 ms-lg-5 me-3 about-choose">
                     <h4 class='whychoose-h4 d-flex justify-content-center '>Expert Instructors</h4>
                     <p class='whychoose-para d-flex justify-content-center'>Our courses are led by certified instructors who have extensive industry experience and teaching skills.</p>
                 </div>
-                <div class="col-12 col-sm-12 col-md-12 col-lg-4 mt-5 ms-lg-5 me-5 about-choose">
+                <div class="col-12 col-sm-12 col-md-12 col-lg-4 mt-5 ms-lg-5 me-3 about-choose">
                     <h4 class='whychoose-h4 d-flex justify-content-center'>Hands-On Learning</h4>
                     <p class='whychoose-para d-flex justify-content-center'>We emphasize practical training alongside theory, equipping students with real-world skills and experience.</p>
                 </div>
-                <div class="col-12 col-sm-12 col-md-12 col-lg-4 mt-5 ms-lg-5 me-5 about-choose">
+                <div class="col-12 col-sm-12 col-md-12 col-lg-4 mt-5 ms-lg-5 me-3 about-choose">
                     <h4 class='whychoose-h4 d-flex justify-content-center'>Supportive Environment</h4>
                     <p class='whychoose-para d-flex justify-content-center'>Our institute fosters a positive and engaging atmosphere, encouraging collaboration and personal growth among students.</p>
                 </div>
